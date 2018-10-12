@@ -24,88 +24,88 @@ app.use(
 
 const catArray = [
         {
-            "imageURL": "http://dummyimage.com/199x104.bmp/cc0000/ffffff",
-            "imageDescription": "Bristly Hawkbit",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Cat_Janna.jpg/330px-Cat_Janna.jpg",
+            "imageDescription": "russian blue cat with green eyes",
             "name": "Oodoo",
             "sex": "Female",
             "age": "8",
             "breed": "Russian Blue",
-            "story": "Grayleaf Willow"
+            "story": "looking to own a human"
         }, {
-            "imageURL": "http://dummyimage.com/169x179.png/dddddd/000000",
-            "imageDescription": "Star Coccocarpia Lichen",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Modern_Seal_Point_Female.jpg/255px-Modern_Seal_Point_Female.jpg",
+            "imageDescription": "profile siamese cat",
             "name": "Tekfly",
             "sex": "Male",
             "age": "6",
             "breed": "Siamese",
-            "story": "Pansy Orchid"
+            "story": "ready to settle down with a family"
         }, {
-            "imageURL": "http://dummyimage.com/223x183.png/dddddd/000000",
-            "imageDescription": "Desert Penstemon",
+            "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNglsVukj4KrJrvwwI6_HbRzt9-89DS6na5uZHizjWcVuuHlP-HA",
+            "imageDescription": "Ragdoll cat showing its feet",
             "name": "Tagcat",
             "sex": "Female",
             "age": "0",
             "breed": "Rag Doll",
-            "story": "Kihifern"
+            "story": "looking for a new hairdresser"
         }, {
-            "imageURL": "http://dummyimage.com/207x199.bmp/ff4444/ffffff",
-            "imageDescription": "Necklacepod",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sphinx2_July_2006.jpg/330px-Sphinx2_July_2006.jpg",
+            "imageDescription": "Sphynx cat with black and pink skin",
             "name": "Kare",
             "sex": "Female",
             "age": "7",
             "breed": "Sphinx",
-            "story": "Bear Valley Milkvetch"
+            "story": "It feels like it is getting cold and I need a warm place to stay for winter"
         }, {
-            "imageURL": "http://dummyimage.com/101x137.jpg/cc0000/ffffff",
-            "imageDescription": "Rio Grande Beeblossom",
+            "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ_C2NfdUttZ5PzRHT0DqCVAPRrtNYe67wJrUULVO2SN1iG6jT",
+            "imageDescription": "Munchkin cat on counter side profile",
             "name": "Skidoo",
             "sex": "Male",
             "age": "7",
             "breed": "Munchkin",
-            "story": "Pyrgillus Lichen"
+            "story": "looking for a high energy family that takes long walks"
         }];
 
 const dogArray = [
     {
-        "imageURL": "http://dummyimage.com/198x140.jpg/5fa2dd/ffffff",
-        "imageDescription": "Downy Arrowwood",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Borismindre.jpg/255px-Borismindre.jpg",
+        "imageDescription": "Affenpinscher bearded face",
         "name": "Miboo",
         "sex": "Female",
         "age": "6",
         "breed": "Affenpinscher",
-        "story": "Bristly Dewberry"
+        "story": "I've seen much of the world and I'm ready to take some naps"
     }, {
-        "imageURL": "http://dummyimage.com/239x103.png/ff4444/ffffff",
-        "imageDescription": "Mexican Skullcap",
-        "name": "Meevee",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/CH_Buck_and_Sons_Evita_Peron.jpg/330px-CH_Buck_and_Sons_Evita_Peron.jpg",
+        "imageDescription": "English Bulldog",
+        "name": "Mexican Skullcap",
         "sex": "Male",
         "age": "9",
-        "breed": "Bulldog",
-        "story": "Prairie Dogshade"
+        "breed": "English Bulldog",
+        "story": "just retired from MMA"
     }, {
-        "imageURL": "http://dummyimage.com/249x195.png/5fa2dd/ffffff",
-        "imageDescription": "Alyssumleaf Phlox",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREyZY6LzHqhfGWM70ELR3Hd7fM1L42iRDwisUhFGmPKsbzfSlH",
+        "imageDescription": "white with speckled black great dane",
         "name": "Wordtune",
         "sex": "Female",
         "age": "3",
         "breed": "Great Dane",
-        "story": "Wenatchee Desertparsley"
+        "story": "will work for bed"
     }, {
-        "imageURL": "http://dummyimage.com/194x170.png/dddddd/000000",
-        "imageDescription": "Desert Calico",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Woody_Puppy.jpg/330px-Woody_Puppy.jpg",
+        "imageDescription": "Husky Puppy",
         "name": "Skyvu",
         "sex": "Female",
         "age": "4",
         "breed": "Husky",
-        "story": "Kansas Peccania Lichen"
+        "story": "looking for a northern home, I get hot easily"
     }, {
-        "imageURL": "http://dummyimage.com/162x104.jpg/ff4444/ffffff",
-        "imageDescription": "Santa Catalina Mountain Phlox",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Softcoated_Wheaten_Terrier_Clio.JPG/220px-Softcoated_Wheaten_Terrier_Clio.JPG",
+        "imageDescription": "Soft Coated Wheaten Terrier",
         "name": "Thoughtworks",
         "sex": "Female",
         "age": "6",
-        "breed": "Terrier",
-        "story": "Rim Lichen"
+        "breed": "Wheaten Terrier",
+        "story": "buyer beware I do not intend to take walks"
     }];
 
 app.get('/api/cat', (req, res) => {
