@@ -1,0 +1,42 @@
+[
+    {
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Borismindre.jpg/255px-Borismindre.jpg",
+        "imageDescription": "Affenpinscher bearded face",
+        "name": "Miboo",
+        "sex": "Female",
+        "age": "6",
+        "breed": "Affenpinscher",
+        "story": "I've seen much of the world and I'm ready to take some naps"
+    }, {
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/CH_Buck_and_Sons_Evita_Peron.jpg/330px-CH_Buck_and_Sons_Evita_Peron.jpg",
+        "imageDescription": "English Bulldog",
+        "name": "Mexican Skullcap",
+        "sex": "Male",
+        "age": "9",
+        "breed": "English Bulldog",
+        "story": "just retired from MMA"
+    }, {
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREyZY6LzHqhfGWM70ELR3Hd7fM1L42iRDwisUhFGmPKsbzfSlH",
+        "imageDescription": "white with speckled black great dane",
+        "name": "Wordtune",
+        "sex": "Female",
+        "age": "3",
+        "breed": "Great Dane",
+        "story": "will work for bed"
+    }, {
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Woody_Puppy.jpg/330px-Woody_Puppy.jpg",
+        "imageDescription": "Husky Puppy",
+        "name": "Skyvu",
+        "sex": "Female",
+        "age": "4",
+        "breed": "Husky",
+        "story": "looking for a northern home, I get hot easily"
+    }, {
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Softcoated_Wheaten_Terrier_Clio.JPG/220px-Softcoated_Wheaten_Terrier_Clio.JPG",
+        "imageDescription": "Soft Coated Wheaten Terrier",
+        "name": "Thoughtworks",
+        "sex": "Female",
+        "age": "6",
+        "breed": "Wheaten Terrier",
+        "story": "buyer beware I do not intend to take walks"
+    }]
